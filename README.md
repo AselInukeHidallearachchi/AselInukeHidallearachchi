@@ -13,15 +13,15 @@
 ```javascript
 const developer = {
     name: "Asel Inuke Hidallearachchi",
-    role: "Full Stack Developer & AI Engineer",
+    role: "Full Stack Developer & AI Enthusiast",
     location: "Sri Lanka 🇱🇰",
     education: "Computer Science Student",
     
     currentFocus: ["AI/ML Projects", "Full Stack Development", "Mobile Development"],
-    technologies: ["React", "Node.js", "Python", "Swift", "Java"],
+    technologies: ["Next","React", "Node.js", "Python", "Swift", "Java"],
     interests: ["Machine Learning", "Web Development", "Mobile Apps", "Open Source"],
     
-    motto: "Building the future, one commit at a time 🚀"
+    motto: "Architecting the digital future, commit by commit🚀"
 };
 ```
 
