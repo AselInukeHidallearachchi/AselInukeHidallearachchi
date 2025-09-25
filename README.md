@@ -15,7 +15,7 @@ const developer = {
     name: "Asel Inuke Hidallearachchi",
     role: "Full Stack Developer & AI Enthusiast",
     location: "Sri Lanka 🇱🇰",
-    education: "Computer Science Student",
+    education: "Software Engineering Student",
     
     currentFocus: ["AI/ML Projects", "Full Stack Development", "Mobile Development"],
     technologies: ["Next","React", "Node.js", "Python", "Swift", "Java"],
