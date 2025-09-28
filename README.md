@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Asel Inuke Hidallearachchi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%26+Node.js+Developer;Mobile+App+Developer;Always+Learning+New+Technologies&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%26+Node.js+Developer;Mobile+App+Developer;&center=true&width=380&height=45">
 </div>
 
 ---
